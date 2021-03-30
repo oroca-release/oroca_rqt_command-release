@@ -1,0 +1,51 @@
+ros-foxy-oroca-rqt-command (0.6.0-3focal) focal; urgency=high
+
+  * Modified pkg name to binary release
+  * Contributors: Pyo
+
+ -- Pyo <passionvirus@gmail.com>  Mon, 29 Mar 2021 15:00:00 -0000
+
+ros-foxy-oroca-rqt-command (0.5.0-3focal) focal; urgency=high
+
+
+
+ -- Pyo <passionvirus@gmail.com>  Wed, 03 Mar 2021 15:00:00 -0000
+
+ros-foxy-oroca-rqt-command (0.4.0-3focal) focal; urgency=high
+
+  * Added a launch file for running with turtlesim node
+  * Code refactoring
+  * Contributors: Pyo
+
+ -- Pyo <passionvirus@gmail.com>  Sun, 21 Feb 2021 15:00:00 -0000
+
+ros-foxy-oroca-rqt-command (0.3.0-3focal) focal; urgency=high
+
+  * Changed code for new ROS 2 seminar
+  * Contributors: Pyo
+
+ -- Pyo <passionvirus@gmail.com>  Thu, 28 Jan 2021 15:00:00 -0000
+
+ros-foxy-oroca-rqt-command (0.2.1-3focal) focal; urgency=high
+
+  * Changed text of keypad for O/S's compatibility
+  * Changed code for PEP-8 and bumped to new version
+  * Contributors: Pyo
+
+ -- Pyo <passionvirus@gmail.com>  Thu, 08 Aug 2019 15:00:00 -0000
+
+ros-foxy-oroca-rqt-command (0.2.0-3focal) focal; urgency=high
+
+  * Improved code using new code style guides
+  * Contributors: Pyo
+
+ -- Pyo <passionvirus@gmail.com>  Wed, 31 Jul 2019 15:00:00 -0000
+
+ros-foxy-oroca-rqt-command (0.1.0-3focal) focal; urgency=high
+
+  * Added examples_rqt as rqt plugin for visualizing messages and services
+  * Contributors: Pyo, Darby Lim
+
+ -- Pyo <passionvirus@gmail.com>  Mon, 17 Jun 2019 15:00:00 -0000
+
+
