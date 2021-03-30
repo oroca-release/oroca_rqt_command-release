@@ -1,0 +1,17 @@
+<library path="src">
+  <class name="Command" type="oroca_rqt_command.rqt_command.Command" base_class_type="rqt_gui_py::Plugin">
+    <description>
+      A plugin visualizing messages and services values
+    </description>
+    <qtgui>
+      <group>
+        <label>Visualization</label>
+        <icon type="theme">folder</icon>
+        <statustip>Plugins related to visualization and control</statustip>
+      </group>
+      <label>RQt Command</label>
+      <icon type="theme">utilities-system-monitor</icon>
+      <statustip>A plugin visualizing messages and services values</statustip>
+    </qtgui>
+  </class>
+</library>
